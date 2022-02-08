@@ -1,3 +1,7 @@
+hi ericka
+today is 8 february 2020
+I am wearing pants
+I am trying to mess up Christian's code
 
 [ Scene begins with a group of crewman standing at a jungle entrance. Camera zooms to Robert Muldoon armed with a shotgun. A crane brings forth a large metal container, which drives forward. An impressive-looking paddock enters viewed. People are shouting orders as the metal container comes forward. ]
 
@@ -2240,3 +2244,4 @@ Survivors
 (The Jeep has come to a stop near a waiting In-Gen Helicopter. Ellie helps the kids get into the helicopter, while Grant helps Malcolm. Hammond takes one last look at the remains of Jurassic Park, listening to the sound of dinosaurs in the distance. Grant grabs his arm, startling him out of it, and then they turn towards the helicopter.
 
 Unlike the helicopter ride to the island, the ride out is solemn and silent. Hammond idly gazes at the mosquito-bearing amber on the end of his cane. Even the normally talkative Malcolm is silent. Ellie just gazes at Grant, who is asleep, with both Lex and Tim sleeping against him. Grant opens his eyes and smiles at Ellie. She smiles back. They look out the window of the helicopter as a flock of condors fly past. The helicopter flies off into the distance as the movie ends.) 
+
